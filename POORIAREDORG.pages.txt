@@ -1,1 +1,10 @@
-
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pxpx.pages.dev&fp=random&type=ws&sni=pxpx.pages.dev#%F0%9F%92%A5POORIA1
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pooriam8.pages.dev&fp=randomized&type=ws&sni=pooriam8.pages.dev#%F0%9F%92%A5POORIA2
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam7.pages.dev&fp=randomized&type=ws&sni=pooriam7.pages.dev#%F0%9F%92%A5POORIA3
+trojan://POORIA@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=pooriam-3bi.pages.dev&fp=randomized&type=ws&sni=pooriam-3bi.pages.dev#%F0%9F%92%A5POORIA4
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fpooriam-aeb.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam-aeb.pages.dev&fp=randomized&type=ws&sni=pooriam-aeb.pages.dev#%F0%9F%92%A5POORIA5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pooriam3.pages.dev&fp=randomized&type=ws&sni=pooriam3.pages.dev#%F0%9F%92%A5POORIA6
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam2.pages.dev&fp=randomized&type=ws&sni=pooriam2.pages.dev#%F0%9F%92%A5POORIA7
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam1.pages.dev&fp=randomized&type=ws&sni=pooriam1.pages.dev#%F0%9F%92%A5POORIA8
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam.ramen61681.workers.dev&fp=random&type=ws&sni=pooriam.ramen61681.workers.dev#%F0%9F%92%A5POORIA9
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pooriam.ramen61681.workers.dev&type=ws#%F0%9F%92%A5POORIA10
